@@ -1,0 +1,108 @@
+*{
+	box-sizing: border-box;
+}
+
+/*html{
+	background:url(../static/image/background.jpeg) no-repeat;
+	background-size:100%;
+	height: 900px;
+	display: block;
+	padding: 0;
+	margin: 0;
+}*/
+
+.logo1{
+	width: 100px;
+	height: auto;
+	border-radius: 100%;
+}
+
+.pic2{
+	width: 500px;
+}
+
+h3{
+	padding: 10px 15px;
+}
+
+.font{
+	font-family: 'Anton', sans-serif;
+	font-size: 40px;
+}
+.html{
+	 width: 125px;
+    height: 50px;
+    background-color:  #f73a25;
+    transition: ease 2s;
+}
+
+.html:hover {
+      background-color: #ffff00;
+      width: 300px;
+}
+
+.css{
+	 width: 125px;
+    height: 50px;
+    background-color:#f73a25;
+    transition: ease 2s;
+}
+
+.css:hover{
+	width: 300px;
+	background-color: #ffff00;
+}
+
+.javascript{
+
+	 width: 125px;
+    height: 50px;
+    background-color: #f73a25;
+    transition: ease 2s;
+}
+
+.javascript:hover{
+	width: 100px;
+	background-color: #564444;
+}
+
+.german{
+	 width: 125px;
+    height: 50px;
+    background-color:#f73a25;
+    transition: ease 2s;
+}
+
+.german:hover{
+	width: 300px;
+	background-color: #99cc00;
+}
+
+.english{
+	 width: 125px;
+    height: 50px;
+    background-color: #f73a25;
+    transition: ease 2s;
+}
+
+.english:hover{
+	width: 500px;
+	background-color: #009933;
+}
+
+.farsi{
+	width: 125px;
+	height: 50px;
+	background-color: #f73a25;
+	transition-delay: 1s;
+	transition: ease 2s;
+}
+
+.farsi:hover{
+      background-color:#004d1a;
+      width: 600px;
+}
+
+.col-md-7{
+	background: url("skillsgap.jpg") no-repeat;
+}
